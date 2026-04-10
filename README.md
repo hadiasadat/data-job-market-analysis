@@ -41,7 +41,7 @@ Key SQL analyses performed:
 * US-focused job analysis
 
 All queries are available in:
-👉 `/sql/analysis.sql`
+👉 `[/sql/analysis.sql](https://github.com/hadiasadat/data-job-market-analysis/tree/main/sql)`
 ## 🇺🇸 US Market Analysis
 
 A focused analysis was conducted on the United States job market to understand demand, salaries, and job distribution.
