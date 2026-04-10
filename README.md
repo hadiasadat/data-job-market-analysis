@@ -64,16 +64,19 @@ Remote jobs offer slightly higher salaries (~$131K) compared to non-remote jobs 
 
 ---
 
-## 📈 Power BI Dashboard
+📈 Power BI Dashboard
 
-The Power BI dashboard provides a business overview of the data:
+A Power BI dashboard was created to visualize key insights from the dataset.
 
-### Key Features:
+Key Features:
+KPI cards (Average Salary, Total Jobs)
+Job demand by role
+Salary distribution
+US-focused analysis
+Remote vs Non-remote comparison
 
-* KPI cards (Average Salary, Total Jobs)
-* Job distribution by role
-* Jobs by country (map visualization)
-* Skill-based insights
+📂 File available in:
+/powerbi/data_job_dashboard.pbix
 
 ---
 
