@@ -76,7 +76,7 @@ US-focused analysis
 Remote vs Non-remote comparison
 
 📂 File available in:
-/powerbi/data_job_dashboard.pbix
+[/powerbi/data_job_dashboard.pbix](https://github.com/hadiasadat/data-job-market-analysis/blob/main/powerbi/data_job_dashboard.pbix)
 
 ---
 
