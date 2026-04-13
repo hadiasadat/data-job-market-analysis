@@ -80,16 +80,18 @@ Remote vs Non-remote comparison
 
 ---
 
-## 📊 Tableau Dashboard
+📊 Tableau Dashboard
 
-Tableau was used for advanced and interactive analysis:
+An interactive Tableau dashboard was developed to analyze the US data job market.
 
-### Key Features:
+Key Insights:
+Most in-demand roles (Data Scientist, Data Analyst)
+Highest paying positions
+Job distribution across US locations
+Salary comparison across roles
 
-* Salary distribution by job title
-* Skills vs salary analysis
-* Interactive filters (country, role, skills)
-* Data storytelling through visual insights
+🔗 View Interactive Dashboard:
+👉 https://public.tableau.com/app/profile/hadia.sadat/viz/datajobs/Dashboard1?publish=yes
 
 ---
 
@@ -121,5 +123,4 @@ Tableau was used for advanced and interactive analysis:
 
 ## 👩‍💻 Author: Hadia Sadat
 
-Hadia Sadat
 
