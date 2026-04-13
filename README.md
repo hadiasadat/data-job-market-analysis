@@ -43,25 +43,6 @@ Key SQL analyses performed:
 All queries are available in:
 👉 https://github.com/hadiasadat/data-job-market-analysis/blob/main/sql/analysis.sql
 ## 🇺🇸 US Market Analysis
-
-A focused analysis was conducted on the United States job market to understand demand, salaries, and job distribution.
-
-### 📈 Most In-Demand Roles
-
-Data Scientist (4567 jobs) and Data Analyst (4377 jobs) are the most in-demand roles, followed by Data Engineer.
-
-### 💰 Highest Paying Roles
-
-Senior Data Scientist (~$159K), Machine Learning Engineer (~$153K), and Senior Data Engineer (~$151K) are the highest-paying roles.
-
-### 📍 Top Locations
-
-Remote roles ("Anywhere") dominate the market, followed by New York, NY and San Francisco, CA.
-
-### 🏠 Remote vs Non-Remote
-
-Remote jobs offer slightly higher salaries (~$131K) compared to non-remote jobs (~$124K).
-
 ---
 
 📈 Power BI Dashboard
@@ -89,6 +70,9 @@ Most in-demand roles (Data Scientist, Data Analyst)
 Highest paying positions
 Job distribution across US locations
 Salary comparison across roles
+### 📸 Dashboard Preview
+
+![Tableau Dashboard](tableau_dashboard.png)
 
 🔗 View Interactive Dashboard:
 👉 https://public.tableau.com/app/profile/hadia.sadat/viz/datajobs/Dashboard1?publish=yes
